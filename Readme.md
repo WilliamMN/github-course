@@ -5,3 +5,5 @@
 Estudando Git , inicialmente fazendo alterações.
 
 Feita outra alteração. as 20:40
+
+** Finalizando o curso .
